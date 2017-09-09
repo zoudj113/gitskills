@@ -1,0 +1,3 @@
+conf /usr/local/etc/nginx
+Install /usr/local/Cellar/nginx/1.12.1/bin
+Resource /usr/local/var/www
